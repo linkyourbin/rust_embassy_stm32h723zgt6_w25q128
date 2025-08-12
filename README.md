@@ -38,4 +38,4 @@ Add this to your `Cargo.toml`:
 w25q128 = "*" 
 ```
 ## Sch Ref / 原理图参考
-![](images/sch_w25q128.jpg)
+![](https://github.com/linkyourbin/rust_embassy_stm32h723zgt6_w25q128/raw/master/images/sch_w25q128.jpg)
