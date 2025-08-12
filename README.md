@@ -35,5 +35,5 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-w25q128 = "0.1.1" 
+w25q128 = "*" 
 ```
