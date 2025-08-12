@@ -2,6 +2,8 @@
 name = "w25q128"
 version = "0.1.0"
 edition = "2024"
+authors = ["linkyourbin <ybinlew@gmail.com>"]
+
 
 [[bin]]
 path = "examples/basic_usage.rs"
