@@ -37,3 +37,5 @@ Add this to your `Cargo.toml`:
 [dependencies]
 w25q128 = "*" 
 ```
+## Sch Ref / 原理图参考
+![](images/sch_w25q128.jpg)
