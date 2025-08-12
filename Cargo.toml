@@ -3,7 +3,8 @@ name = "w25q128"
 version = "0.1.0"
 edition = "2024"
 authors = ["linkyourbin <ybinlew@gmail.com>"]
-
+description = "A driver for W25Q128 flash memory chips, using Embassy framework"  
+license = "MIT"  
 
 [[bin]]
 path = "examples/basic_usage.rs"
