@@ -4,7 +4,9 @@ version = "0.1.1"
 edition = "2024"
 authors = ["linkyourbin <ybinlew@gmail.com>"]
 description = "A driver for W25Q128 flash memory chips, using Embassy framework"  
-license = "MIT"  
+license = "MIT"
+repository = "https://github.com/linkyourbin/rust_embassy_stm32h723zgt6_w25q128"
+
 
 [[bin]]
 path = "examples/basic_usage.rs"
